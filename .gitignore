@@ -1,0 +1,17 @@
+ 
+# Python
+__pycache__/
+*.pyc
+*.zip
+.env
+venv/
+chroma_db/
+agentscode/
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
